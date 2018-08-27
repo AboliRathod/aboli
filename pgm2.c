@@ -46,6 +46,6 @@ int main()
     //printf("The top is %d\n",top->data);
     
     pop();
-    printf("\nThe top after pop is : %d\n",top->data);
+    printf("\nThe top after pop is ...................: %d\n",top->data);
     return 0;
 }
